@@ -9,3 +9,4 @@ Tools used in the development of this project are
 * MySQL Engine
 * Dia to draw ER_Diagrams
 * NetBeans IDE
+* GlassFish Server
